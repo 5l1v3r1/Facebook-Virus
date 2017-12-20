@@ -1,0 +1,11 @@
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Release\fuckvitamind.csproj.GenerateResource.Cache
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Release\fuckvitamind.csproj.CoreCompileInputs.cache
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Release\fuckvitamind.gr33ntii.resources
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\bin\Release\Facebook Virus Killer.exe.config
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\bin\Release\Facebook Virus Killer.exe
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\bin\Release\Facebook Virus Killer.pdb
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Release\Facebook Virus Killer.exe
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Release\Facebook Virus Killer.pdb
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Release\fuckvitamind.Properties.Resources.resources
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Release\fuckvitamind.csproj.ResolveComReference.cache

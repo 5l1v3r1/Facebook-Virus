@@ -1,0 +1,10 @@
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\bin\Debug\fuckvitamind.exe.config
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\bin\Debug\fuckvitamind.exe
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\bin\Debug\fuckvitamind.pdb
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Debug\fuckvitamind.csprojResolveAssemblyReference.cache
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Debug\fuckvitamind.Properties.Resources.resources
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Debug\fuckvitamind.csproj.GenerateResource.Cache
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Debug\fuckvitamind.csproj.CoreCompileInputs.cache
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Debug\fuckvitamind.exe
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Debug\fuckvitamind.pdb
+C:\Users\Xolzsec\source\repos\fuckvitamind\fuckvitamind\obj\Debug\fuckvitamind.Form1.resources
