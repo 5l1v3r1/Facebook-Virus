@@ -11,5 +11,9 @@ các cậu download file zip về rồi mở lên nhé
 
 =====================================================================
 
+còn phần Analysis mình để đó cho những ai thích mổ sẽ con virus này 
+
+
+
 
 
