@@ -1,23 +1,15 @@
-# Facebook-Virus
+# Facebook-Virus (Thuốc Giải)
 
 
-:thinking:
+-.- Các bạn vui lòng đọc thật kỹ vào cho mình với mình đã nói với các cậu là 
+thuốc giải mình sẽ để ở đây nhé -.- còn source code thì cũng khá đơn giản mình sẽ update sau xd giờ chưa tiện lắm xd 
+hahah 
 
+Link: https://github.com/WakiZ/Facebook-Virus/releases/tag/v1.0.0 
 
-Disable cherry.exe in Task Manager from tab Start-Up you can see in image 
+các cậu download file zip về rồi mở lên nhé 
 
-![image](https://my.mixtape.moe/ahnezv.png)
-
-Delete cherry.exe + 7za.exe + worker.exe if you want stop this virus
-
-
-
-=================== 
-
-Or you can download this tool and open xd
-it will help you clear the virus from your computer 
-
-https://github.com/WakiZ/Facebook-Virus/releases/tag/v1.0.0
+=====================================================================
 
 
 
